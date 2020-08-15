@@ -10,5 +10,5 @@ Chapter 3. Feature selection II, selecting for model accuracy
 
 Chapter 4. Feature extraction
 
-## Course Notes, Solutions and Answers:
+## Personal Notes:
 https://towardsdatascience.com/dimensionality-reduction-in-python-4fecd1f28cb2
